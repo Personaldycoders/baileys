@@ -1,7 +1,7 @@
 # WhatsApp Baileys — by Dycoders
 
 <p align="center">
-  <img src="https://files.catbox.moe/1jr5sg.jpg" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/xkgu27.jpg" alt="Thumbnail" />
 </p>
 
 <!--
